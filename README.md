@@ -29,7 +29,7 @@ This project is designed to analyze customer feedback and complaints. It provide
 
 ### Prerequisites
 Before running the project, make sure you have the following installed:
-- Python 3.x: [Download Python](https://www.python.org/downloads/)
+- Python 3.12.7: [Download Python](https://www.python.org/downloads/)
 - MySQL: [Download MySQL](https://dev.mysql.com/downloads/installer/)
 
 ### Setup
