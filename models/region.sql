@@ -1,0 +1,10 @@
+INSERT INTO Region (region_id, region_name) VALUES (1, 'North Region');
+INSERT INTO Region (region_id, region_name) VALUES (2, 'South Region');
+INSERT INTO Region (region_id, region_name) VALUES (3, 'East Region');
+INSERT INTO Region (region_id, region_name) VALUES (4, 'West Region');
+INSERT INTO Region (region_id, region_name) VALUES (5, 'Central Region');
+INSERT INTO Region (region_id, region_name) VALUES (6, 'Northeast Region');
+INSERT INTO Region (region_id, region_name) VALUES (7, 'Northwest Region');
+INSERT INTO Region (region_id, region_name) VALUES (8, 'Southeast Region');
+INSERT INTO Region (region_id, region_name) VALUES (9, 'Southwest Region');
+INSERT INTO Region (region_id, region_name) VALUES (10, 'Union Territories');
